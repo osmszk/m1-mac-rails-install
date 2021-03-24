@@ -1,7 +1,7 @@
 # M1 Mac上でRubyとRailsの開発環境構築やっていきます
 
 ## これはYouTube動画の資料です
-- M1 MacにRubyとRailsの環境構築してみた youtu.be/z3pjrohuhec
+- M1 MacにRubyとRailsの環境構築してみた https://youtu.be/z3pjRoHuhEc
 
 ---
 
